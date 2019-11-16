@@ -1,2 +1,0 @@
-# graRakieta
-Created with CodeSandbox
